@@ -1,4 +1,4 @@
-LK
+BIT-Quine
 ==
 
-LK's Kernel
+BIT-Quine
